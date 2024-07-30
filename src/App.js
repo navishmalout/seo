@@ -68,7 +68,7 @@ function App() {
         <div class="gcse-searchresults-only"></div>
       </div>
 
-       <iframe id="if1" width="100%" height="254" style={{visibility:"visible"}} src="https://www.google.ca/search?q=addidas&glp=1&adtest=on&hl=EN&tci=g:2124&uule=w+CAIQICIGQ2FuYWRh&safe=images&safe=high&adtest-useragent=Mozilla/5.0%20(Linux;%20U;%20Android-4.0.3;%20en-us;%20Xoom%20Build/IML77)%20AppleWebKit/535.7%20(KHTML,%20like%20Gecko)%20CrMo/16.0.912.75%20Safari/535.7#"></iframe> 
+       {/* <iframe id="if1" width="100%" height="254" style={{visibility:"visible"}} src="https://www.google.ca/search?q=addidas&glp=1&adtest=on&hl=EN&tci=g:2124&uule=w+CAIQICIGQ2FuYWRh&safe=images&safe=high&adtest-useragent=Mozilla/5.0%20(Linux;%20U;%20Android-4.0.3;%20en-us;%20Xoom%20Build/IML77)%20AppleWebKit/535.7%20(KHTML,%20like%20Gecko)%20CrMo/16.0.912.75%20Safari/535.7#"></iframe>  */}
 
     </div>
   );

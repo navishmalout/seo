@@ -1,0 +1,114 @@
+[
+    {
+        "label": "Arabic",
+        "value": "AR"
+    },
+    {
+        "label": "Chinese - Simplified",
+        "value": "CN"
+    },
+    {
+        "label": "Chinese - Traditional",
+        "value": "TW"
+    },
+    {
+        "label": "Czech",
+        "value": "CS"
+    },
+    {
+        "label": "Danish",
+        "value": "DA"
+    },
+    {
+        "label": "Dutch",
+        "value": "NL"
+    },
+    {
+        "label": "English",
+        "value": "EN"
+    },
+    {
+        "label": "Estonian",
+        "value": "ET"
+    },
+    {
+        "label": "Finnish",
+        "value": "FI"
+    },
+    {
+        "label": "French",
+        "value": "FR"
+    },
+    {
+        "label": "German",
+        "value": "DE"
+    },
+    {
+        "label": "Greek",
+        "value": "EL"
+    },
+    {
+        "label": "Hebrew",
+        "value": "IW"
+    },
+    {
+        "label": "Hungarian",
+        "value": "HU"
+    },
+    {
+        "label": "Icelandic",
+        "value": "IS"
+    },
+    {
+        "label": "Italian",
+        "value": "IT"
+    },
+    {
+        "label": "Japanese",
+        "value": "JA"
+    },
+    {
+        "label": "Korean",
+        "value": "KO"
+    },
+    {
+        "label": "Latvian",
+        "value": "LV"
+    },
+    {
+        "label": "Lithuanian",
+        "value": "LT"
+    },
+    {
+        "label": "Norwegian",
+        "value": "NO"
+    },
+    {
+        "label": "Portuguese",
+        "value": "PT"
+    },
+    {
+        "label": "Polish",
+        "value": "PL"
+    },
+    {
+        "label": "Romanian",
+        "value": "RO"
+    },
+    {
+        "label": "Russian",
+        "value": "RU"
+    },
+    {
+        "label": "Spanish",
+        "value": "ES"
+    },
+    {
+        "label": "Swedish",
+        "value": "SV"
+    },
+    {
+        "label": "Turkish",
+        "value": "TR"
+    }
+]

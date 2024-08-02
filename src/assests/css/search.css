@@ -1,0 +1,70 @@
+.search-form {
+    max-width: 400px; /* Reduced the form width */
+    margin: 0 auto;
+    padding: 15px; /* Reduced padding */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px; /* Reduced spacing between form elements */
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 7px; /* Reduced margin below labels */
+    color: #333;
+    font-size: 12px; /* Made the label text smaller */
+}
+
+.select-input {
+    width: 100%;
+    font-size: 12px; /* Made the select input text smaller */
+}
+
+input[type="text"] {
+    width: 92%;
+    padding: 6px; /* Reduced padding inside the input */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px; /* Made the input text smaller */
+    padding: 12px;
+}
+
+.input-error {
+    border-color: red;
+}
+
+.error {
+    color: red;
+    font-size: 12px; /* Made error messages smaller */
+    margin-top: 3px; /* Reduced margin above error messages */
+}
+
+.submit-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.submit-button:active {
+    background-color: #004494;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(1px);
+}
+

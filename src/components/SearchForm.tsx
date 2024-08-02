@@ -4,10 +4,6 @@ import Select from "react-select";
 import countryList from '../assests/files/country.json';
 import languageList from '../assests/files/language.json';
 import "../assests/css/search.css"
-import { fromByteArray } from 'base64-js';
-import createUule from 'create-uule';
-
-
 
 
 function SearchForm({ setUrl }) {
@@ -62,7 +58,7 @@ function SearchForm({ setUrl }) {
             let charCode = String.fromCharCode(ccc.length + 65);
             console.log("base64Location",base64Location,ccc.length, String.fromCharCode(65 +ccc.length));
             const uule = 'w+CAIQICI'+charCode;
-            let guule = (uule + base64Location).slice(0, -1);
+            let guule = (uule + base64Location);
             setUrl(`${googleBaseUrl}/search?igu=1&q=${keyword}&glp=1&tci=g:2784&adtest=on&hl=${language}&uule=${guule}&safe=images&safe=high`);
         }
     });
